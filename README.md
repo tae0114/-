@@ -1,5 +1,7 @@
 # 국제택배전문 항공기 데이터베이스
 </br>
+
+
 </br>
 
 ## 날짜 및 시간
@@ -21,7 +23,13 @@
 ## 초기화
 -	만약 웹사이트로부터 받은 날짜 데이터가 바뀌게 되면 총 매출 데이터에 매출 데이터를 더한 후 매출을 0으로 바꾼다.
 -	회원 데이터 베이스에 있는 내용과 총 매출 데이터를 제외한 모든 데이터를 삭제한다.
+</br>
 
+## 예시
 
+</br>
+<img src="https://user-images.githubusercontent.com/101614038/158394961-beec1104-c9b4-47a7-881c-21072dfd8b52.png"> 
+<img src="https://user-images.githubusercontent.com/101614038/158395197-2d310764-4e10-477d-8a38-acb84c42704b.png">
+<img src="https://user-images.githubusercontent.com/101614038/158395221-c00f9ed6-6ef8-4090-8743-892499bc1b0a.png">
 </br>
 
