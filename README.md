@@ -32,4 +32,7 @@
 <img src="https://user-images.githubusercontent.com/101614038/158395197-2d310764-4e10-477d-8a38-acb84c42704b.png">
 <img src="https://user-images.githubusercontent.com/101614038/158395221-c00f9ed6-6ef8-4090-8743-892499bc1b0a.png">
 </br>
+</br>
+## ERD
+<img src="https://user-images.githubusercontent.com/101614038/161536806-973da4ea-bb74-4eb9-8d5d-9cfa4b4e3e9b.png"> 
 
