@@ -35,5 +35,4 @@
 </br>
 
 ## ERD
-<img src="https://user-images.githubusercontent.com/101614038/161536806-973da4ea-bb74-4eb9-8d5d-9cfa4b4e3e9b.png"> 
-
+![그림](https://user-images.githubusercontent.com/101614038/168604722-8ac89689-6c2c-44fc-a3d2-dce1c6f80d3c.png)
